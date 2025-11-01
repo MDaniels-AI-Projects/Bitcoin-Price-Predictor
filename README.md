@@ -5,7 +5,7 @@ I used a Random Forest Regressor on the last 5 years of price movements for BTC 
 
 I chose Random Forest because it is good on capturing complex, non-linear relationships in financial markets. It averages predictions across multiple decision trees, and is good at avoiding overfitting. It can also be trained surprisingly fast (a few seconds on a H100!) [this suggests I could add a lot more variables into the data in future).
 
-I decided to see if the price of USD, Etherium, GLD, and the S&P500 impacted BTC price. There is lots of debate on how macroecononic trends influences prices of things like gold, bitcoin etc, but I wanted to let the AI find the patterns and hopefully cut through the subjective noise. I also looked at 5 day and 0 day moving averages, which is useful to see overall volatility in BTC prices.
+I decided to see if the price of USD, Etherium, GLD, and the S&P500 impacted BTC price. There is lots of debate on how macroecononic trends influences prices of things like gold, bitcoin etc, but I wanted to let the AI find the patterns and hopefully cut through the subjective noise. I also looked at 5 and 20 day moving averages, which is useful to see overall volatility in BTC prices.
 
 Specifically:
 ETH - I figured it would be highly correlated with BTC.
