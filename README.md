@@ -27,12 +27,16 @@ Training complete.
 New RMSE: 0.071355
 
 --- Top 5 Feature Importances ---
+
 ^TNX       0.224828
+
 ETH-USD    0.152131
+
 Std_20     0.118769
+
 MA_5       0.104065
+
 MA_20      0.100474
-dtype: float64
 
 A RMSE of .07 means the predictions are around 7% wrong, which is obviously a problem for an accurate predictor on a asset like bitcoin, but it's a good start I think.
 
