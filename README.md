@@ -44,9 +44,9 @@ Also what was interesting was how the most important factor affecting BTC's pric
 
 I will try to explain why:
 
-Bond yields and the price of risky assets usually have an inverse relationship ( https://www.investopedia.com/terms/b/bond-yield.asp ) because when yields rise, bonbd become more attractive to investors. But, BTC has now become a long term asset more than a risky short term bet, so it was interested to see that it seems people still see BTC as a speculative asset, and not like a 'normal' fita curreny (seems the USD is safe for now).
+Bond yields and the price of risky assets usually have an inverse relationship ( https://www.investopedia.com/terms/b/bond-yield.asp ) because when yields rise, bonbs become more attractive to investors. But, BTC has now become a long term asset more than a risky short term bet, so it was interesting to see that it seems people still see BTC as a speculative asset, and not like a 'normal' fiat curreny (seems the USD is safe for now). I have always argued BitCoin is specualtive and will never be a normal currency, and this finding does lend that argument some weight.
 
-Price of Etherium was correlated to BTC price, which is no surprise really. People likely buy bitcoin for the same reason they buy any other crypto.
+Price of Etherium was correlated to BTC price, which is no surprise really. People likely buy bitcoin for the same reason they buy other crypto.
 
 Going forward, I will do the following:
 
